@@ -1,0 +1,31 @@
+{
+    "name": "extjs4-mvc-boilerplate"
+    , "private": true
+    , "version": "0.1.0"
+    , "publishConfig": {
+        "tag": "0.1.0"
+    }
+    , "description": "A server for prototyping ExtJS MVC frontends"
+    , "author": "Alexander Pirsig self@pirsig.net"
+    , "maintainers": "Alexander Pirsig <self@pirsig.net>"
+    , "licenses": [{
+         "type": "MIT"
+       , "url": "https://github.com/piscis/extjs4-mvc-boilerplate/LICENSE"
+    }]
+    , "homepage": [
+         "https://github.com/piscis/extjs4-mvc-boilerplate"
+    ]
+    , "repository": {
+         "type": "git"
+       , "url": "https://github.com/piscis/extjs4-mvc-boilerplate.git"
+    }
+    , "bugs": { "url" : "https://github.com/piscis/extjs4-mvc-boilerplate/issues" }
+    , "contributors": []
+    , "dependencies": {
+        "node-static": "*"
+    }
+    , "main": "./server"
+    , "engines": {
+        "node": "*"
+    }
+}
